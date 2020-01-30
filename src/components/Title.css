@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+
+.title-font {
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+.main-title {
+    font-size: 6rem;
+    z-index: 2;
+    color: white;
+}
+
+.line-text {
+    text-decoration: line-through;
+}
