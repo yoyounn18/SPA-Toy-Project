@@ -1,7 +1,7 @@
 import React from 'react';
 import './Title.css';
 
-const Title = ({ name }) => {
+const Title = ({ name, font }) => {
     return <div className="main-title title-font"> { name } </div>
 };
 
