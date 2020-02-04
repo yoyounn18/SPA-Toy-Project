@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap');
+
+.title-font {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.album-content-song {
+    font-size: 1.5rem;
+    color: black;
+}

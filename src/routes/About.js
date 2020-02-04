@@ -1,21 +1,19 @@
 import React from 'react';
 import Title from '../components/Title';
-import Header from '../components/Header';
 import { Link } from 'react-router-dom';
 
+import './Album.css';
 import './About.css';
+import Header from '../components/Header';
 
-
-
-const About = () => {
+const Album = () => {
     return (
-        <div className="about-section">
-            <div className="nav-div">
-                <Header />
-            </div>
-            <div className="about-jumbo">
+        
+        <div className="album-section">
+            <Header />
+            <div className="about-main">
                 <div className="dark-container">
-                    <Title name="Who is Owen?" />
+                    <Title name="Introduce"></Title>
                     <Link to="/aboutfirst">
                         <div className="about-click click-font">
                             Click
@@ -27,4 +25,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default Album;

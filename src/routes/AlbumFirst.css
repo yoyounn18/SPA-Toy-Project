@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+
+.album-title-font {
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+.album-section {
+    width: 100vw
+}
+
+.album-content {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+a { 
+    color: gray;
+    opacity: 0.8;
+}
+
+.play-link-div {
+    width: 90%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 2rem;
+}

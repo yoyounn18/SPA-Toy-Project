@@ -3,9 +3,9 @@
     background: none;
     display: table;
     table-layout: fixed;
-    width: 50%;
+    width: 40%;
     z-index: 999;
-    position: sticky;
+    position: absolute;
 }
 
 .item {
@@ -16,16 +16,16 @@
     color: white;
     text-decoration: none;
     font-size: 1.1rem;
+    background-color: black;
+    opacity: 0.3;
 }
 
 .item:hover {
     transition: linear 0.4s;
-    background: black;
-    opacity: 0.6;
+    opacity: 1;
 }
 
 .item:active, .item.active {
-    border-bottom: 2px solid black;
-    opacity: 0.6;
+    opacity: 1;
     color: white;
 }

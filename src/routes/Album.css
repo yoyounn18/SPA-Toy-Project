@@ -1,0 +1,43 @@
+.album-section {
+    width: 100vw;
+    display: flex;
+    height: 100vh;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.album-main {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F11%2Fowen-korean-hiphop-artist-interview-rapper-mkit-rain-smile-run-makaveli-11.jpg?q=80&w=1640&cbr=1&fit=max");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+.poem-main {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://ww.namu.la/s/e304b3d72a2edd46a131e443a6922544fe5f507811a16e4ba2fc44c8d0d46ef6e6a016c964995b4e2ff3508dc96a5ea1de9cd3e4f9dd57b173696450af4c4332c74356b48d46c7a334b3fa5937b1f45354bc5ca059812b7b79c13eb96a90da862d9803c2f967b80e6e032456653df872");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.poem2-main {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://w.namu.la/s/c79f66022eeecb994e709bcfa36ba21fd89ac51c6ed9a93fd58b5d8d35e37496349b2a5dc4ace8eb9ad1a0fe859dea36650e3ad79bc3966b6c9cde44f1d7a2923c02d120d382fd37fbad2e6bf87cc1e97ea0b757695faca4114fd86c91b9fc4f");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.margin-top-10 {
+    margin-top: 10%;
+}

@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
 
-.main-title {
+.title-font {
     font-family: 'Covered By Your Grace', cursive;
+}
+
+.album-title-name {
+    font-size: 4rem;
+    color: black;
+}
+
+a { 
+    color: gray;
+    opacity: 0.8;
 }

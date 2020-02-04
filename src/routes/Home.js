@@ -6,6 +6,7 @@ import DelayLink from 'react-delay-link';
 
 
 import './Home.css';
+import './About.css';
 
 const Home = () => {
     const addLineToOvadoz = () => {
@@ -22,9 +23,11 @@ const Home = () => {
                     <Title name="Ovadoz" />
                 </div>
             </div>
-            <div className="next-page">
+            <div className="next-page ">
                     <DelayLink delay={1500} to="/about" clickAction={addLineToOvadoz} replace={false}>
-                        <span>Start</span>
+                        <div className="home-start main-content-font">
+                            Start
+                        </div>
                     </DelayLink>
             </div>
         </div>

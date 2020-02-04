@@ -23,8 +23,11 @@ const AboutFisrt = () => {
                         <div className="about-picture">
                             <img src="https://lh3.googleusercontent.com/proxy/X58djC4kzkLbKBWwIcUy85_OzEXnwqof2S8raBtB2nytfubsWzeDE99TyoXQC7XIA3q124iuIqHEGECG-0JY742LqAfwlNsvGZLs6YPiZAnBL0DrUA9swHBWM5kloeF6GoLk1EzVVyPh71vLRCJzn8a1DyaIiOS6" />
                         </div>
-                        <div className="content-font">
-                            Owen
+                        <div className="content-font main-content-font">
+                            Owen a.k.a Clevermind (김현우 28)
+                        </div>
+                        <div className="content-font main-content-font">
+                                Social
                         </div>
                         <div className="content-sns">
                             <div className="sns-content">
@@ -48,7 +51,7 @@ const AboutFisrt = () => {
                                 </a>
                             </div>
                         </div>
-                        <Link to="/aboutfirst">
+                        <Link to="/aboutsecond">
                         <div className="about-click click-font">
                             Next
                         </div>
