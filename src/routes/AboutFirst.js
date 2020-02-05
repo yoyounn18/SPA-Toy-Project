@@ -21,7 +21,7 @@ const AboutFisrt = () => {
                 </div>
                 <div className="about-content">
                         <div className="about-picture">
-                            <img src="https://lh3.googleusercontent.com/proxy/X58djC4kzkLbKBWwIcUy85_OzEXnwqof2S8raBtB2nytfubsWzeDE99TyoXQC7XIA3q124iuIqHEGECG-0JY742LqAfwlNsvGZLs6YPiZAnBL0DrUA9swHBWM5kloeF6GoLk1EzVVyPh71vLRCJzn8a1DyaIiOS6" />
+                            <img src="https://images.genius.com/551ab066f9337a66035b0ba9ae53ef66.852x852x1.jpg" />
                         </div>
                         <div className="content-font main-content-font">
                             Owen a.k.a Clevermind (김현우 28)

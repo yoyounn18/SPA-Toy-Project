@@ -14,7 +14,7 @@ const AlbumFirst = () => {
             <div className="poem-main">
                 <div className="album-content">  
                 </div>
-                <div className="album-content">
+                <div className="album-content1">
                     <AlbumTitle name="P.O.E.M" />
                     <AlbumContent name="Reasons - Owen" />
                     <AlbumContent name="Puzzle(feat. Paloalto, Okasian) - Owen" />

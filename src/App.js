@@ -11,6 +11,8 @@ import AboutSecond from './routes/AboutSecond';
 import BaseCream from './routes/BaseCream';
 import AlbumSecond from './routes/AlbumSecond';
 import AlbumFirst from './routes/AlbumFirst';
+import ConcertFirst from './routes/ConcertFirst';
+import VideoFirst from './routes/VideoFirst';
 
 const App = () => {
   return (
@@ -25,10 +27,11 @@ const App = () => {
           <Route path="/aboutfirst" component= {AboutFisrt} />
           <Route path="/aboutsecond" component= {AboutSecond} />
           <Route path="/basecream" component= {BaseCream} />
-          <Route path="/albumfirst" component= {AlbumFirst} />
+          <Route path="/albumfisrt" component= {AlbumFirst} />
           <Route path="/albumsecond" component= {AlbumSecond} />
-
-        </Switch>                                                                     " component={About}/>
+          <Route path="/concertfirst" component= {ConcertFirst} />
+          <Route path="/videofirst" component= {VideoFirst} />
+        </Switch>                                                                     
       </div>
     </Router>
   );

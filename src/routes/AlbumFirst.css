@@ -16,11 +16,17 @@
     align-items: center;
     flex-direction: column;
 }
-
-a { 
-    color: gray;
-    opacity: 0.8;
+.album-content1 {
+    width: 50vw;
+    height: 82vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    padding-top: 10%;
 }
+
 
 .play-link-div {
     width: 90%;

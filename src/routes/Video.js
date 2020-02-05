@@ -14,7 +14,7 @@ const Video = () => {
             <div className="video-main">
                 <div className="dark-container">
                     <Title name="Video"></Title>
-                    <Link to="/albumfirst">
+                    <Link to="/videofirst">
                         <div className="about-click click-font">
                             Click
                         </div>

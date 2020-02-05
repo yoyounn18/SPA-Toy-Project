@@ -15,7 +15,7 @@ const AlbumSecond = () => {
                 <div className="album-content">
                     
                 </div>
-                <div className="album-content">
+                <div className="album-content1">
                     <AlbumTitle name="P.O.E.M 2" />
                     <AlbumContent name="형 - Owen" />
                     <AlbumContent name="호밀밭의 파수꾼 - Owen" />
@@ -26,21 +26,16 @@ const AlbumSecond = () => {
                     <AlbumContent name="what the fun - Owen" />
                     <AlbumContent name="away(feat. nafla) - Owen" />
                     <AlbumContent name="Holy - Owen" />
-                    <AlbumContent name="flex(feat. Young West) - Owen (recommand)" />
-                    <AlbumContent name="possesion - Owen (recommand)" />
-                    <AlbumContent name="thoughts - Owen (recommand)" />
-                    <AlbumContent name="문제(feat. Simba Zawadi) - Owen (recommand)" />
+                    <AlbumContent name="flex(feat. Young West) - Owen" />
+                    <AlbumContent name="possesion - Owen" />
+                    <AlbumContent name="thoughts - Owen" />
+                    <AlbumContent name="문제(feat. Simba Zawadi) - Owen" />
 
-                    <div className="play-link-div title-font">
+                    <div className="play-link-div title-font margin-top-10">
                         <a href="https://www.youtube.com/watch?v=UAlmDktGtzM&list=PLFQRWJMxJeG5P8xCGtpVE6b6oAW1qb62Y">
                             Play Link
                         </a>
                     </div>
-                    <Link to="/aboutsecond">
-                        <div className="about-click click-font">
-                            Next
-                        </div>
-                    </Link>
                 </div>
             </div>
         </div>

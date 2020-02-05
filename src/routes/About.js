@@ -1,6 +1,8 @@
 import React from 'react';
 import Title from '../components/Title';
 import { Link } from 'react-router-dom';
+import "react-tiger-transition/styles/main.min.css";
+
 
 import './Album.css';
 import './About.css';
@@ -14,7 +16,7 @@ const Album = () => {
             <div className="about-main">
                 <div className="dark-container">
                     <Title name="Introduce"></Title>
-                    <Link to="/aboutfirst">
+                    <Link to="/aboutfirst" transition="glide-right">
                         <div className="about-click click-font">
                             Click
                         </div>

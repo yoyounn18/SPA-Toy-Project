@@ -14,7 +14,7 @@ const Album = () => {
             <div className="album-main">
                 <div className="dark-container">
                     <Title name="Album"></Title>
-                    <Link to="/albumfirst">
+                    <Link to="/albumfisrt">
                         <div className="about-click click-font">
                             Click
                         </div>

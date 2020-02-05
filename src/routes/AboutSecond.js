@@ -1,10 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
 import { Link } from 'react-router-dom';
-import YouTubeIcon from '@material-ui/icons/YouTube';
-import FacebookIcon from '@material-ui/icons/Facebook';
-import InstagramIcon from '@material-ui/icons/Instagram';
-import CloudIcon from '@material-ui/icons/Cloud';
 
 import './About.css';
 
@@ -21,7 +17,7 @@ const AboutSecond = () => {
                 </div>
                 <div className="about-content">
                         <div className="about-picture">
-                            <img src="https://lh3.googleusercontent.com/proxy/X58djC4kzkLbKBWwIcUy85_OzEXnwqof2S8raBtB2nytfubsWzeDE99TyoXQC7XIA3q124iuIqHEGECG-0JY742LqAfwlNsvGZLs6YPiZAnBL0DrUA9swHBWM5kloeF6GoLk1EzVVyPh71vLRCJzn8a1DyaIiOS6" />
+                            <img src="https://images.genius.com/551ab066f9337a66035b0ba9ae53ef66.852x852x1.jpg" />
                         </div>
                         <div className="content-font main-content-font">
                             <Link to='/basecream'>

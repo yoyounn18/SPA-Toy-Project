@@ -1,0 +1,28 @@
+.video-first-section {
+    background-attachment: fixed;
+    background-image: url("https://cdnimg.melon.co.kr/cm2/mv/images/wide/502/11/274/50211274_2_20191106182306_org.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.video-first-container {
+    width: 100vw;
+    height: 300vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.video-first-content {
+    width: 70vw;
+    height: 56vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

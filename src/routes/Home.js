@@ -1,7 +1,5 @@
 import React from 'react';
 import Title from '../components/Title';
-import { Link } from 'react-router-dom';
-import KeyboardArrowRightIcon from '@material-ui/icons/KeyboardArrowRight';
 import DelayLink from 'react-delay-link';
 
 

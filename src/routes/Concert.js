@@ -14,7 +14,7 @@ const Concert = () => {
             <div className="concert-main">
                 <div className="dark-container">
                     <Title name="Concert"></Title>
-                    <Link to="/albumfirst">
+                    <Link to="/concertfirst">
                         <div className="about-click click-font">
                             Click
                         </div>
