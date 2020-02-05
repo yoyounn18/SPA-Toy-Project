@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23b7ba6594d3830c9c137523eb01f786",
+    "revision": "8bc141b42c64872859086364a4a55289",
     "url": "/SPA-Toy-Project/index.html"
   },
   {
-    "revision": "b7a48f743b38253cbecb",
-    "url": "/SPA-Toy-Project/static/css/main.6d1f4695.chunk.css"
+    "revision": "967faa22031ae9330c93",
+    "url": "/SPA-Toy-Project/static/css/main.25903970.chunk.css"
   },
   {
     "revision": "9c719051e63a676b382d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SPA-Toy-Project/static/js/2.2961e467.chunk.js.LICENSE"
   },
   {
-    "revision": "b7a48f743b38253cbecb",
+    "revision": "967faa22031ae9330c93",
     "url": "/SPA-Toy-Project/static/js/main.31f1113a.chunk.js"
   },
   {
