@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SPA-Toy-Project/static/css/main.6d1f4695.chunk.css",
+    "main.js": "/SPA-Toy-Project/static/js/main.31f1113a.chunk.js",
+    "main.js.map": "/SPA-Toy-Project/static/js/main.31f1113a.chunk.js.map",
+    "runtime-main.js": "/SPA-Toy-Project/static/js/runtime-main.da2b06ad.js",
+    "runtime-main.js.map": "/SPA-Toy-Project/static/js/runtime-main.da2b06ad.js.map",
+    "static/js/2.2961e467.chunk.js": "/SPA-Toy-Project/static/js/2.2961e467.chunk.js",
+    "static/js/2.2961e467.chunk.js.map": "/SPA-Toy-Project/static/js/2.2961e467.chunk.js.map",
+    "index.html": "/SPA-Toy-Project/index.html",
+    "precache-manifest.bb3c468b2dfc4a443d7f98f2dbcc451b.js": "/SPA-Toy-Project/precache-manifest.bb3c468b2dfc4a443d7f98f2dbcc451b.js",
+    "service-worker.js": "/SPA-Toy-Project/service-worker.js",
+    "static/css/main.6d1f4695.chunk.css.map": "/SPA-Toy-Project/static/css/main.6d1f4695.chunk.css.map",
+    "static/js/2.2961e467.chunk.js.LICENSE": "/SPA-Toy-Project/static/js/2.2961e467.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2b06ad.js",
+    "static/js/2.2961e467.chunk.js",
+    "static/css/main.6d1f4695.chunk.css",
+    "static/js/main.31f1113a.chunk.js"
+  ]
+}
